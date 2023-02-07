@@ -1,37 +1,37 @@
 [
   {
-    name: "DRG02-燙金龍",
-    url: "https://live.staticflickr.com/65535/51557155752_d7f5959506_z.jpg",
-    category: ["龍", "淺色"]
+    "name": "DRG02-燙金龍",
+    "url": "https://live.staticflickr.com/65535/51557155752_d7f5959506_z.jpg",
+    "category": ["龍", "淺色"]
   },
   {
-    name: "DRG03-黑底小白龍",
-    url: "https://live.staticflickr.com/65535/51558632389_ea139c9be5_z.jpg",
-    category: ["龍", "深色", "黑白"]
+    "name": "DRG03-黑底小白龍",
+    "url": "https://live.staticflickr.com/65535/51558632389_ea139c9be5_z.jpg",
+    "category": ["龍", "深色", "黑白"]
   },
   {
-    name: "AN02-黃底鱷魚",
-    url: "https://live.staticflickr.com/65535/51558186893_fab25bd3b4_k.jpg",
-    category: ["黃色", "鱷魚"]
+    "name": "AN02-黃底鱷魚",
+    "url": "https://live.staticflickr.com/65535/51558186893_fab25bd3b4_k.jpg",
+    "category": ["黃色", "鱷魚"]
   },
   {
-    name: "AN60-燙金兔新年",
-    url: "https://live.staticflickr.com/65535/52638752740_1c454589ed_h.jpg",
-    category: ["兔子", "紅"]
+    "name": "AN60-燙金兔新年",
+    "url": "https://live.staticflickr.com/65535/52638752740_1c454589ed_h.jpg",
+    "category": ["兔子", "紅"]
   },
   {
-    name: "AN53-乳牛",
-    url: "https://live.staticflickr.com/65535/51558186478_b4a37f5b61_h.jpg",
-    category: ["牛", "黑白"]
+    "name": "AN53-乳牛",
+    "url": "https://live.staticflickr.com/65535/51558186478_b4a37f5b61_h.jpg",
+    "category": ["牛", "黑白"]
   },
   {
-    name: "CAM01-細迷彩",
-    url: "https://live.staticflickr.com/65535/51558637399_7ed44639b1_h.jpg",
-    category: ["綠色", "細迷彩"]
+    "name": "CAM01-細迷彩",
+    "url": "https://live.staticflickr.com/65535/51558637399_7ed44639b1_h.jpg",
+    "category": ["綠色", "細迷彩"]
   },
   {
-    name: "CAM02-全動物迷彩",
-    url: "https://live.staticflickr.com/65535/51558873190_2d9ad86a07_h.jpg",
-    category: ["動物"]
+    "name": "CAM02-全動物迷彩",
+    "url": "https://live.staticflickr.com/65535/51558873190_2d9ad86a07_h.jpg",
+    "category": ["動物"]
   }
 ]
